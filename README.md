@@ -1,4 +1,4 @@
-***Objetivo:*** criar uma aplicação que funcione de modo semelhante a https://survey-form.freecodecamp.rocks
+***Objetivo:*** criar uma aplicação que funcione de modo semelhante a https://formulariodepesquisa.netlify.app/
 # Histórias de usuário:
 
 1. Você deve ter um título de página em um elemento ***h1*** com o ***id title***
